@@ -90,7 +90,8 @@ doc.display_details()
 ```
 
 ### OUTPUT  
-![image](https://github.com/user-attachments/assets/0050caa1-b001-4b9b-a41a-1f48b2d0b9ad)
+![image](https://github.com/user-attachments/assets/4a907662-8f58-4001-9e20-98313179068e)
+
 
 
 
